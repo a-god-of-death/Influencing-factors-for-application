@@ -1,2 +1,2 @@
-# Influencing factors for applying postgraduate studies
+# Influencing factors for application
 Use python to analyse the application factor
