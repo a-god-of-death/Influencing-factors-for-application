@@ -1,1 +1,2 @@
-# if_phone_can-t_see
+# Influencing factors for applying postgraduate studies
+Use python to analyse the application factor
